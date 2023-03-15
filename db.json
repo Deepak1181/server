@@ -1,19 +1,15 @@
 {
-  "posts": [
+  "member": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "Frontent",
+      "author": "Deepak"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "title": "Frontent",
+      "author": "manishSingh"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
+ 
 }
