@@ -45,6 +45,16 @@
       "category":"Deluxe",
       "price":18000
     }
+  ],
+  "users":[
+    {
+      "id":1,
+      "name":"Deepak",
+      "email":"d@gmailo.com",
+      "password":"123",
+      "reenter_password":"123"
+
+    }
   ]
  
 }
