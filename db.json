@@ -1,14 +1,49 @@
 {
-  "member": [
+  "hotels": [
     {
       "id": 1,
-      "title": "Frontent",
-      "author": "Deepak"
+      "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReAKME4XUpHxXAkUn7MCLfLRMhMxevJ1Gj70RDepHXkA&s",
+      "capacity":"Max capacity 3",
+      "facilities":"Closet with hanger, HD TV",
+      "BedType":"One Bed",
+      "category":"Family",
+      "price":"4000"
     },
     {
       "id": 2,
-      "title": "Frontent",
-      "author": "manishSingh"
+      "images": "https://thumbs.dreamstime.com/b/hotel-rooms-8146308.jpg",
+      "capacity":"Max capacity 4",
+      "facilities":"Closet with hanger, HD TV",
+      "BedType":"One Bed",
+      "category":"Deluxe",
+      "price":"5000"
+    },
+    {
+      "id": 3,
+      "images": "https://thumbs.dreamstime.com/b/hotel-rooms-8146308.jpg",
+      "capacity":"Max capacity 2",
+      "facilities":"Closet with hanger, HD TV",
+      "BedType":"One Bed",
+      "category":"Suite",
+      "price":"8000"
+    },
+    {
+      "id": 4,
+      "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReAKME4XUpHxXAkUn7MCLfLRMhMxevJ1Gj70RDepHXkA&s",
+      "capacity":"Max capacity 3",
+      "facilities":"Closet with hanger,Full HD TV",
+      "BedType":"Three Bed",
+      "category":"Deluxe",
+      "price":"14000"
+    },
+    {
+      "id": 5,
+      "images": "https://thumbs.dreamstime.com/b/south-beach-miami-hotels-18389048.jpg",
+      "capacity":"Max capacity 8",
+      "facilities":"Closet with hanger, HD TV",
+      "BedType":"four Bed",
+      "category":"Deluxe",
+      "price":"18000"
     }
   ]
  
