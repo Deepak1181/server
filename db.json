@@ -7,7 +7,9 @@
       "facilities":"Closet with hanger, HD TV",
       "BedType":"One Bed",
       "category":"Family",
-      "price":4000
+      "price":4000,
+      "type_of_room": "AC",
+      "booked": "false"
     },
     {
       "id": 2,
@@ -16,7 +18,9 @@
       "facilities":"Closet with hanger, HD TV",
       "BedType":"One Bed",
       "category":"Deluxe",
-      "price":5000
+      "price":5000,
+      "type_of_room": "Non AC",
+      "booked": "false"
     },
     {
       "id": 3,
@@ -25,7 +29,9 @@
       "facilities":"Closet with hanger, HD TV",
       "BedType":"One Bed",
       "category":"Suite",
-      "price":8000
+      "price":8000,
+      "type_of_room": "AC",
+      "booked": "false"
     },
     {
       "id": 4,
@@ -34,7 +40,9 @@
       "facilities":"Closet with hanger,Full HD TV",
       "BedType":"Three Bed",
       "category":"Deluxe",
-      "price":14000
+      "price":14000,
+      "type_of_room": "AC",
+      "booked": "false"
     },
     {
       "id": 5,
@@ -43,7 +51,9 @@
       "facilities":"Closet with hanger, HD TV",
       "BedType":"four Bed",
       "category":"Deluxe",
-      "price":18000
+      "price":18000,
+      "type_of_room": "AC",
+      "booked": "false"
     }
   ],
   "users":[
