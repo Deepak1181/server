@@ -65,6 +65,12 @@
       "reenter_password":"123"
 
     }
+  ],
+  "tasks":[
+    {
+      "id":1,
+      "task":"cooking"
+    }
   ]
  
 }
